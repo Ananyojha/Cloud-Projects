@@ -19,17 +19,3 @@ In reverse Chronological order
 
 **Video** - 
 
-- ##### Business Problem Solved 
-
-
-- ###### Architecture Diagram 
-
-
-- ###### Benefits
-
-
-- ###### Pricing 
-
-
-- ###### Tech Used 
-
