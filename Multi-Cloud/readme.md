@@ -19,4 +19,4 @@ In reverse Chronological order
 
 - **Project Readme** - [Check Now 🔎](https://github.com/Ananyojha/Cloud-Projects/blob/main/Multi-Cloud/AWS-SSO-AZURE-AD-CLOUDWATCH.md)
 - **Video** - [Cloud Portfolio Channel](https://youtu.be/qcFXNt4lZKU)
-- **Architecture Diagram** - [Explains about how it works & the flow between various services]
+- **Architecture Diagram** - [Explains about how it works & the flow between different Cloud Services](https://raw.githubusercontent.com/Ananyojha/spare-images/f13100a39d1874fa5eabb33fd8a287dbe1c5178d/aws-sso.jpg)
