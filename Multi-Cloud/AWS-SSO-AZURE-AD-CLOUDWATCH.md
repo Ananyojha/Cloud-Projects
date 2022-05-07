@@ -1,16 +1,25 @@
 # Introduction
 
+Do you Want to give your Azure Active Directory users quick access to AWS? This video explains the benefits, pricing and show how it looks in real life
+
+
  ## Business Problem Solved 
+
+1. Using SAML to give Azure Active Directory users ability to sign-in to AWS Console and CLI (Users will be auto created, updated and deleted in AWS once done in Azure) | Helpful for BIG ENTERPRISES.
+
+2. We need an AWS Account to monitor CloudWatch Dashboards but using AWS SSO and AWS COGNITO, we made AWS SSO Application users to see CloudWatch Dashboards WITHOUT ANY AWS ACCOUNT.
 
 
  ## Architecture Diagram 
 
+![](https://raw.githubusercontent.com/Ananyojha/spare-images/f13100a39d1874fa5eabb33fd8a287dbe1c5178d/aws-sso.jpg)
 
  ## Benefits
 
 
  ## Pricing 
 
+### FREE !! 
 [CLOUDWATCH PRICING](https://aws.amazon.com/cloudwatch/pricing/)
 
 [EC2 PRICING](https://aws.amazon.com/ec2/pricing/)
