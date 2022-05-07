@@ -17,5 +17,6 @@ In reverse Chronological order
 
 ### 1. Help My Multi Cloud Engineers and Auditors
 
-
+**Project Readme** - [Check Now 🔎](https://github.com/Ananyojha/Cloud-Projects/blob/main/Multi-Cloud/AWS-SSO-AZURE-AD-CLOUDWATCH.md)
 **Video** - [Cloud Portfolio Channel](https://youtu.be/qcFXNt4lZKU)
+**Architecture Diagram** - [Explains about how it works & the flow between various services]
