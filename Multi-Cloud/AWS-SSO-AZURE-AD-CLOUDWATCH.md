@@ -1,15 +1,15 @@
 # Introduction
 
- #### Business Problem Solved 
+ ## Business Problem Solved 
 
 
- ####Architecture Diagram 
+ ## Architecture Diagram 
 
 
- #### Benefits
+ ## Benefits
 
 
- #### Pricing 
+ ## Pricing 
 
 [CLOUDWATCH PRICING](https://aws.amazon.com/cloudwatch/pricing/)
 
@@ -17,7 +17,7 @@
 
 [Azure AD PRICING](https://azure.microsoft.com/en-in/pricing/details/active-directory/)
 
-- ###### Tech Used 
+ ## Tech Used 
 
 
 **Concepts** - 
