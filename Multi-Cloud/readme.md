@@ -17,5 +17,5 @@ In reverse Chronological order
 
 ### 1. Help My Multi Cloud Engineers and Auditors
 
-**Video** - 
 
+**Video** - [Cloud Portfolio Channel](https://youtu.be/qcFXNt4lZKU)
