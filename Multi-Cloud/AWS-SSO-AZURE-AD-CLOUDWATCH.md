@@ -31,6 +31,14 @@ Do you Want to give your Azure Active Directory users quick access to AWS? This 
 
 **Concepts** - 
 
+### Aws --
+
+- AWS Single Sign-On
+Centrally manage access to multiple AWS accounts or applications
+You can create user identities directly in AWS SSO, or you can bring them from your Microsoft Active Directory or a standards-based identity provider, such as Okta Universal Directory or Azure AD. With AWS SSO, you get a unified administration experience to define, customize, and assign fine-grained access
+
+
+
 **SAML** : SAML is an acronym used to describe the Security Assertion Markup Language (SAML). Its primary role in online security is that it enables you to access multiple web applications using one set of login credentials
 
 **Single sign-on** : (SSO) is a technology which combines several different application login screens into one. With SSO, a user only has to enter their login credentials (username, password, etc.) one time on a single page to access all of their SaaS applications
