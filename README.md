@@ -2,6 +2,9 @@
 This repo contains the cloud projects made by [Ananay Ojha]
 
 # Aim :
+
+> "half the job is doing the work, the other half is proving that you did the work." — Charlie Brown
+
  It's my **PoK** (Proof of knowledge) 
 - To show my multi-cloud practical Knowledge and my presentation skills
  
