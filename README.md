@@ -1,12 +1,15 @@
 # Cloud-Projects
-This repo contains the cloud projects made by [Ananay Ojha]
+This repo contains the cloud projects made by [Ananay Ojha](https://linkedin.com/in/ananay-ojha/)
+
 
 # Aim :
 
-> "half the job is doing the work, the other half is proving that you did the work." — Charlie Brown
+> **"half the job is doing the work, the other half is proving that you did the work." — Charlie Brown**
 
  It's my **PoK** (Proof of knowledge) 
 - To show my multi-cloud practical Knowledge and my presentation skills
+
+![](https://raw.githubusercontent.com/Ananyojha/spare-images/main/image_326f8e75-c672-43a3-a1c4-77ae9598da5320211206_205729.jpg)
  
 # What it Contains ?
 It contains every information that any client / company would need from a **POC** (Proof of Concept) or a **MVP** (Minimum Viable Product) like - 
