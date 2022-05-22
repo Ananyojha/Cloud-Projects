@@ -12,6 +12,8 @@ This repo contains the cloud projects made by [Ananay Ojha](https://linkedin.com
 ![](https://raw.githubusercontent.com/Ananyojha/spare-images/main/image_326f8e75-c672-43a3-a1c4-77ae9598da5320211206_205729.jpg)
  
 # What it Contains ?
+> A project is simply a Solution to a business problem that may help a business get profit ... 
+
 It contains every information that any client / company would need from a **POC** (Proof of Concept) or a **MVP** (Minimum Viable Product) like - 
 - [x] Business Problem Solved
 - [x] Pricing
@@ -20,6 +22,7 @@ It contains every information that any client / company would need from a **POC*
 - [x] **A Video** -- it explains all above concepts using my YouTube Channel 
 (So you got Timestamps ⏰ also - jump to see what you want at any 😁 speed (2x is my favourite)
 
+> You can improve only those things which you can measure...
 
 # Table of Contents 
 In reverse Chronological order 
